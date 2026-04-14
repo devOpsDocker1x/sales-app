@@ -2,5 +2,9 @@ spring:
   application:
     name: sales-app
 
+
+
 server:
+  servlet:
+    context-path=/sales-app:
   port: 8081
