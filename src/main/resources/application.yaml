@@ -6,5 +6,5 @@ spring:
 
 server:
   servlet:
-    context-path=/sales-app:
+    context-path: /sales-app
   port: 8081
