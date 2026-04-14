@@ -1,3 +1,6 @@
 spring:
   application:
     name: sales-app
+
+server:
+  port: 8081
